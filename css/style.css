@@ -257,10 +257,10 @@ h6 {
 
 /* Desktop Navigation */
 
-.main-nav {
-  /* Drop Down */
-  /* Deep Drop Down */
-}
+/* .main-nav {
+  Drop Down
+  Deep Drop Down
+} */
 
 .main-nav,
 .main-nav * {
@@ -278,7 +278,7 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #413e66;
+  color: black;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -494,7 +494,7 @@ h6 {
 --------------------------------*/
 
 .section-bg {
-  background: #f5f8fd;
+  background: lightblue;
 }
 
 /* About Us Section
@@ -1223,7 +1223,7 @@ h6 {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #f5f8fd;
+  background: lightblue;
 }
 
 #footer .footer-top .footer-info {
